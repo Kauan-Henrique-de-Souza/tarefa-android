@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "002109e0-725c-482c-accb-9fa1b017a2af"
+      }
+    },
+    "owner": "grupoprojetomobile",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/002109e0-725c-482c-accb-9fa1b017a2af"
     }
   }
 }
